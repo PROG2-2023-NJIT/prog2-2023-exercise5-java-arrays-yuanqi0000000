@@ -338,7 +338,6 @@ public void setTicketNumber(){
 }
 */
 
-
 public void setDepartingTicketPrice(int childPassengers,int adultPassengers){
     switch(ticketNumber3){
         case "DOM" : taxes = 0.1 * 300;
